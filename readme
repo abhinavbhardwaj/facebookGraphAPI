@@ -1,0 +1,20 @@
+to login
+http://localhost/abhinav/facebook/login.php
+
+to get all post
+http://localhost/abhinav/facebook/get-all-post.php
+
+to get all post by uiser id
+http://localhost/abhinav/facebook/get-all-post.php?userId=100004962630787
+
+to get specific post
+http://localhost/abhinav/facebook/get-all-post.php?postId=100004962630787_10200403383662543
+
+to update post
+http://localhost/abhinav/facebook/update-post.php?postId=100004962630787_820202228155191
+
+
+
+question has been uploaded on stack over flow
+https://stackoverflow.com/questions/47112352/is-there-any-way-by-which-i-can-delete-facebook-post-via-api-even-by-facebook-ap
+
